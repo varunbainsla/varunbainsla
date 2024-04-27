@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hi 👋! <br>I'm Varun Bainsla, a passionate Python Developer committed to crafting innovative solutions. My expertise spans various domains, including Backend Development, Web Applications, and ETL Pipeline Development, with a primary focus on Python programming and AWS. Welcome to my GitHub profile, where I showcase my projects and contributions, reflecting my journey in the world of software development.</p>
+<p align="left">Hi 👋! <br>I'm Varun Bainsla, a seasoned Data Engineer with a passion for leveraging cutting-edge technologies to build robust and scalable data solutions. With hands-on experience in AWS services like S3, Kinesis, DynamoDB, Redshift, RDS, Glue, Athena, SQS, SNS, and EC2, I specialize in designing and implementing end-to-end data pipelines and ETL workflows. My expertise extends to big data tools such as PySpark and Databricks, enabling me to tackle complex data processing tasks efficiently. With a strong foundation in data warehouse management and data governance practices, I excel in optimizing data architectures for performance and reliability. Join me on my journey as I navigate the realms of data engineering, driving innovation and delivering impactful solutions.</p>
 
 ###
 
